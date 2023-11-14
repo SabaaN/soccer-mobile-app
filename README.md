@@ -1,1 +1,1 @@
-Repo for the soccer stats recording mobile app that is a WIP
+Repo for the soccer stats recording mobile app. It is WIP
